@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">GoogleAuth</string>
+    <string name="sign_in">Sign In</string>
+    <string name="sign_in_with_google_using_firebase">Sign-In with Google using Firebase!</string>
+    <string name="sign_in_with_google">Sign In with Google</string>
+    <string name="facebook_img">facebook_img</string>
+    <string name="google_plus">google_plus</string>
+    <string name="twitter">twitter</string>
+    <string name="createdBy"><![CDATA[Supun Sulakshana - Designing & Coding]]></string>
+    <string name="supun_sulakshana_creation">Supun Sulakshana - Creation</string>
+    <string name="google_icon">google_icon</string>
+
+    <string name="facebook_app_id">2234781353329192</string>
+    <string name="fb_login_protocol_scheme">fb1234</string>
+    <string name="facebook_client_token">56789</string>
+    <string name="sign_in_with_facebook">Sign In With FaceBook</string>
+
+
+</resources>
